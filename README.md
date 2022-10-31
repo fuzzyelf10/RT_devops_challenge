@@ -4,8 +4,8 @@ To build this project, Pls have docker and terraform installed. use AMD64 cpu ty
 
 Run the following commands afrer exporting your AWS credentials
 
-terraform init
+`terraform init`
 
-terraform plan
+`terraform plan`
 
-terraform apply
+`terraform apply`
