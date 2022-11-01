@@ -9,3 +9,7 @@ Run the following commands afrer exporting your AWS credentials
 `terraform plan`
 
 `terraform apply`
+
+Access load balancer URL from the output `alb_url` and then access the URL on port 5000
+
+<ALB_URL>:5000/status
